@@ -1,0 +1,4 @@
+Compute: Amazon EC2 — a virtual server that you rent by the second.
+Storage: Amazon S3 — storage for files: images, backups, videos, anything. 
+Database: Amazon RDS — a managed database. 
+Networking: Amazon VPC — your own private network inside AWS.
