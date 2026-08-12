@@ -3,7 +3,7 @@
   "Statement": [
     {
       "Effect": "Allow",
-      "Action": "s3:GettObject",
+      "Action": "s3:GetObject",
       "Resource": "arn:aws:s3:::my-training-bucket/*"
     }
   ]
